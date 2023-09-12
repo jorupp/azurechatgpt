@@ -1,3 +1,6 @@
+<https://github.com/jorupp/azurechat> is a fork of the newer <https://github.com/microsoft/azurechat> - use that instead.
+
+
 # Unleash the Power of Azure Open AI
 
 ![](/images/intro.png)
